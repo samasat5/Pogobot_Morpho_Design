@@ -4,6 +4,6 @@ the exoskeleton’s performance on lower-performing robots was examined, reveali
 were proposed.
 
 
-For more information about the Pogobots, you can visit https://pogobot.github.io/
+For more information about the Pogobots, please visit https://pogobot.github.io/
 
 
